@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=pTestSubclassUC.vbp
+StartupProject=pTestSubclassing.vbp
